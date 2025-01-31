@@ -1,6 +1,6 @@
-# Hello and `welcome` 👋
-
 [[_TOC_]]
+
+# Hello and `welcome` 👋
 
 ## Metzger Lab
 
@@ -11,7 +11,7 @@ This repository contains information needed by a new comer in the [Metzger Lab](
 Currently, you can have access to the following topics:
 
 - [R](R/)
-  - [renv](R/renv.ipynb): managing package versions in R 
+  - [renv](R/renv.md): managing package versions in R 
 
 ## Roadmap 
 
