@@ -1,4 +1,4 @@
-# Hello and `welcome`
+# Hello and `welcome` 👋
 
 ## Metzger Lab
 
