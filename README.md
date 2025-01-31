@@ -1,5 +1,7 @@
 # Hello and `welcome` 👋
 
+[[_TOC_]]
+
 ## Metzger Lab
 
 This repository contains information needed by a new comer in the [Metzger Lab](https://www.igbmc.fr/equipes/roles-physiopathologiques-des-voies-de-signalisation-des-recepteurs-nucleaires) regarding data management in the lab, use of this gitlab, ressources on bioinformatics topics...
