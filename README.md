@@ -9,7 +9,7 @@ This repository contains information needed by a new comer in the [Metzger Lab](
 ## Summary
 
 
-Currently, you can have access to the following topics:
+Currently, you can read about the following topics:
 
 - [R](R/)
   - [renv](R/renv.md): managing package versions in R 
