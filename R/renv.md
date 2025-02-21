@@ -1,4 +1,15 @@
-[[_TOC_]]
+- [Introduction](#introduction)
+  - [What is renv?](#what-is-renv)
+  - [Why should you use renv?](#why-should-you-use-renv)
+- [Implementing renv in your R projects](#implementing-renv-in-your-r-projects)
+  - [Installing renv](#installing-renv)
+  - [Working with R projects](#working-with-r-projects)
+  - [Initializing renv in a project](#initializing-renv-in-a-project)
+  - [Managing packages with renv](#managing-packages-with-renv)
+  - [Sharing your project with renv](#sharing-your-project-with-renv)
+  - [Recreating a renv environment from a `renv.lock` file](#recreating-a-renv-environment-from-a-renvlock-file)
+- [Conclusion](#conclusion)
+
 
 # Introduction
 
