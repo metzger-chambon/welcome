@@ -1,4 +1,9 @@
-[[_TOC_]]
+- [Hello and `welcome` 👋](#hello-and-welcome-)
+  - [Metzger Lab](#metzger-lab)
+  - [Summary](#summary)
+  - [Roadmap](#roadmap)
+  - [Contributing](#contributing)
+
 
 # Hello and `welcome` 👋
 
@@ -16,19 +21,19 @@ Currently, you can read about the following topics:
 
 
 Follow the links to various cheat sheets and print them out to decorate your desk:
-- [R](https://rstudio.github.io/cheatsheets/)
-  - [Base R](https://rstudio.github.io/cheatsheets/base-r.pdf)
-  - [RStudio](https://rstudio.github.io/cheatsheets/html/rstudio-ide.html)
-  - [R Best Practice](https://rstudio.github.io/cheatsheets/R-best-practice.pdf)
-  - [ggplot2](https://rstudio.github.io/cheatsheets/html/data-visualization.html)
-  - [dplyr](https://rstudio.github.io/cheatsheets/html/data-transformation.html)
-  - [tidyr](https://rstudio.github.io/cheatsheets/html/tidyr.html)
-  - [quarto](https://rstudio.github.io/cheatsheets/html/quarto.html)
-  - [rmarkdown](https://rstudio.github.io/cheatsheets/html/rmarkdown.html)
+- [R](https://rstudio.github.io/cheatsheets/): to discover R universe
+  - [Base R](https://rstudio.github.io/cheatsheets/base-r.pdf): to get started with R
+  - [RStudio](https://rstudio.github.io/cheatsheets/html/rstudio-ide.html): to get started with RStudio
+  - [R Best Practice](https://rstudio.github.io/cheatsheets/R-best-practice.pdf): to improve your R skills 
+  - [ggplot2](https://rstudio.github.io/cheatsheets/html/data-visualization.html): to get started with generating plots
+  - [dplyr](https://rstudio.github.io/cheatsheets/html/data-transformation.html): to manipulate datatables
+  - [tidyr](https://rstudio.github.io/cheatsheets/html/tidyr.html): to tidy datatables
+  - [quarto](https://rstudio.github.io/cheatsheets/html/quarto.html): to create beautiful notebooks with integrated code
+  - [rmarkdown](https://rstudio.github.io/cheatsheets/html/rmarkdown.html): to create beautiful notebooks with integrated code (deprecated)
   - [Seurat](https://satijalab.org/seurat/articles/seurat5_essential_commands.html)
-- [git](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
-  - [git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
-- [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/cheatsheet.html)
+- [git](https://about.gitlab.com/images/press/git-cheat-sheet.pdf): to version control code
+  - [git branching model](https://nvie.com/posts/a-successful-git-branching-model/): to develop tools with version control
+- [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/cheatsheet.html): to use contained and reproducible package environment 
 
 
 ## Roadmap 
