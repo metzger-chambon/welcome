@@ -18,6 +18,8 @@ Currently, you can read about the following topics:
 
 - [R](R/)
   - [renv](R/renv.md): managing package versions in R 
+- [singlecell](singlecell/)
+  - [ressources](singlecell/ressources.md): package and doc on single-cell analysis
 
 
 Follow the links to various cheat sheets and print them out to decorate your desk:
@@ -30,7 +32,6 @@ Follow the links to various cheat sheets and print them out to decorate your des
   - [tidyr](https://rstudio.github.io/cheatsheets/html/tidyr.html): to tidy datatables
   - [quarto](https://rstudio.github.io/cheatsheets/html/quarto.html): to create beautiful notebooks with integrated code
   - [rmarkdown](https://rstudio.github.io/cheatsheets/html/rmarkdown.html): to create beautiful notebooks with integrated code (deprecated)
-  - [Seurat](https://satijalab.org/seurat/articles/seurat5_essential_commands.html)
 - [git](https://about.gitlab.com/images/press/git-cheat-sheet.pdf): to version control code
   - [git branching model](https://nvie.com/posts/a-successful-git-branching-model/): to develop tools with version control
 - [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/cheatsheet.html): to use contained and reproducible package environment 
